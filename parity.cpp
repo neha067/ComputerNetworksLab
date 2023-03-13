@@ -1,12 +1,3 @@
-// even/odd parity
-/* ==>Parity of a number is the even/odd frequency of set bits
-	odd if has odd number of set bits
-	even if even number of set bits
-   ==>idea : add one parity bit in the end of binary number
-*/
-
-//given a binary number change to odd or even parity
-
 #include<iostream>
 #include<string>
 using namespace std; 
@@ -31,5 +22,3 @@ int main(){
 	}
 	return 0;
 }
-		
-
